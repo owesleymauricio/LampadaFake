@@ -1,0 +1,2 @@
+# LampadaFake
+ ideiaDeUmaLampada
